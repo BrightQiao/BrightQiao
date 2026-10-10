@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, 我是BrightQiao👋
 
-<!--
-**BrightQiao/BrightQiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 人文社科在读
+- vibe coding入门者
+- 好玩比一切都重要
 
-Here are some ideas to get you started:
+## Doing Now
+- 奇妙生成小工具
+- 强情绪AI动态交互&视觉表现
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 找到我
+- everydaywaltz@163.com
+
+*“东西这么多，做点有趣的！”*
